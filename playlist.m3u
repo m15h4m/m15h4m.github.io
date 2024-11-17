@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DVBTV.mm" tvg-logo="https://www.lyngsat.com/logo/tv/dd/democratic-voice-of-burma-tv-mm.png" group-title="MYANMAR" group-logo="https://vectorflags.s3-us-west-2.amazonaws.com/flags/mm-circle-01.png",DVB TV
+https://live-stream.dvb.no/hls/stream_higher/index.m3u8
+
+#EXTINF:-1 tvg-id="MRTV4.mm" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv_mm_4.png" group-title="MYANMAR" group-logo="https://vectorflags.s3-us-west-2.amazonaws.com/flags/mm-circle-01.png",MRTV-4
+http://15.235.212.156:25461/live/MM664662/MM664665/6.ts
+
+#EXTINF:-1 tvg-id="Channel7.mm" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel7_mm.png" group-title="MYANMAR" group-logo="https://vectorflags.s3-us-west-2.amazonaws.com/flags/mm-circle-01.png",Channel-7 HD
+http://15.235.212.156:25461/live/MM664662/MM664665/4.ts
+
+#EXTINF:-1 tvg-id="MaharTV.mm" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mahar-tv-mm.png" group-title="MYANMAR" group-logo="https://vectorflags.s3-us-west-2.amazonaws.com/flags/mm-circle-01.png",Mahar TV
+https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="MaharEsports.mm" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mahar-esports-th.png" group-title="MYANMAR" group-logo="https://vectorflags.s3-us-west-2.amazonaws.com/flags/mm-circle-01.png",Mahar ESport
+https://tv.mahar.live/esports/mahar.stream/esports/mahar1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ChannelK.mm" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-k-mm.png" group-title="MYANMAR" group-logo="https://vectorflags.s3-us-west-2.amazonaws.com/flags/mm-circle-01.png",Channel K
+https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="FortuneTV.mm" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fortune-tv-mm.png" group-title="MYANMAR" group-logo="https://vectorflags.s3-us-west-2.amazonaws.com/flags/mm-circle-01.png",Fortune TV
+http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
+
+#EXTINF:-1 tvg-id="MNTV.mm" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mn_tv_mm.png" group-title="MYANMAR" group-logo="https://vectorflags.s3-us-west-2.amazonaws.com/flags/mm-circle-01.png",MN TV
+https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="MEntertainmentChannel.mm" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m-entertainment-mm.png" group-title="MYANMAR" group-logo="https://vectorflags.s3-us-west-2.amazonaws.com/flags/mm-circle-01.png",Channel ME
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/chunklist_w1909816536.m3u8
+
+#EXTINF:-1 tvg-id="Channel9.mm" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_9_mm.png" group-title="MYANMAR" group-logo="https://vectorflags.s3-us-west-2.amazonaws.com/flags/mm-circle-01.png",Channel 9
+http://15.235.212.156:25461/live/MM664662/MM664665/18.ts
+
+#EXTINF:-1 tvg-id="YTV.mm" tvg-logo="https://www.lyngsat.com/logo/tv/yy/ytv-mm.png" group-title="MYANMAR" group-logo="https://vectorflags.s3-us-west-2.amazonaws.com/flags/mm-circle-01.png",YTV
+http://15.235.212.156:25461/live/MM664662/MM664665/19.ts
+
+#EXTINF:-1 tvg-logo="http://5.62.130.10:80/images/bein1.png" group-title="Sports",beIN SPORT 01 HD
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:04:07&stream=192767&extension=ts
+
+#EXTINF:-1 tvg-logo="http://5.62.130.10:80/images/bein2.png" group-title="Sports",beIN SPORT 02 HD
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:04:07&stream=192766&extension=ts
+
+#EXTINF:-1 tvg-logo="http://5.62.130.10:80/images/bein3.png" group-title="Sports",beIN SPORT 03 HD
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:04:07&stream=192765&extension=ts
+
+#EXTINF:-1 tvg-logo="http://5.62.130.10:80/images/bein4.png" group-title="Sports",beIN SPORT 04 HD
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:04:07&stream=192764&extension=ts
+
+#EXTINF:-1 tvg-logo="http://5.62.130.10:80/images/bein1.png" group-title="Sports",beIN SPORT 01 SD
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:04:07&stream=192764&extension=ts
+
+#EXTINF:-1 tvg-logo="http://5.62.130.10:80/images/bein2.png" group-title="Sports",beIN SPORT 02 SD
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:04:07&stream=192753&extension=ts
+
+#EXTINF:-1 tvg-logo="http://5.62.130.10:80/images/bein3.png" group-title="Sports",beIN SPORT 03 SD
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:04:07&stream=192752&extension=ts
+
+#EXTINF:-1 tvg-logo="http://5.62.130.10:80/images/bein4.png" group-title="Sports",beIN SPORT 04 SD
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:04:07&stream=192751&extension=ts
